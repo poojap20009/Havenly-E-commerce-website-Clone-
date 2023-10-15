@@ -1747,7 +1747,7 @@
     .block{
         /* background-color: gray; */
         /* padding:1rem; */
-        background-image: url('../Images/2.png');
+        background-image: url('./Images/2.png');
         background-size: 100%;
         background-repeat: no-repeat;
     }
